@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.f4ead750.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const n={name:"InputText"},r={type:"text"};function c(p,s,a,_,f,i){return t(),e("input",r)}var x=o(n,[["render",c]]);export{x as default};
