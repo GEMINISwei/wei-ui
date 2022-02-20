@@ -6,7 +6,7 @@ cd docs/.vuepress/dist
 
 git init
 git add .
-git commit -m 'deploy page'
+git commit -m "deploy page"
 
 git push -f git@github.com:GEMINISwei/wei-ui.git master:demo-pages
 
