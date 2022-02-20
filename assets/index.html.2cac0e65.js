@@ -1,0 +1,1 @@
+import{o as e,c as o,a as t,b as c}from"./app.ea7fbd8d.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const r={},s={id:"welcome-wei-ui",tabindex:"-1"},i=t("a",{class:"header-anchor",href:"#welcome-wei-ui","aria-hidden":"true"},"#",-1),_=c(" Welcome Wei UI"),n=[i,_];function d(h,m){return e(),o("h1",s,n)}var u=a(r,[["render",d]]);export{u as default};
