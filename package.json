@@ -1,0 +1,26 @@
+{
+  "name": "@geminiswei/wei-ui",
+  "version": "1.0.4",
+  "main": "dist/library.js",
+  "module": "dist/library.mjs",
+  "license": "MIT",
+  "scripts": {
+    "build": "rollup -c",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.31",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.35",
+    "rollup": "^2.67.3",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-vue": "^6.0.0",
+    "sass": "^1.49.8",
+    "vuepress": "^2.0.0-beta.35"
+  },
+  "peerDependencies": {},
+  "files": [
+    "dist/*"
+  ]
+}
