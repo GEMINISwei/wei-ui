@@ -1,35 +1,35 @@
 {
-  "hash": "779d7440",
-  "browserHash": "2b7f80c8",
+  "hash": "c2d4ce18",
+  "browserHash": "ec7a810e",
   "optimized": {
     "vue": {
-      "file": "D:/Practice/wei-ui/docs/.vuepress/.cache/vue.js",
-      "src": "D:/Practice/wei-ui/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "file": "D:/Project/wei-ui/docs/.vuepress/.cache/vue.js",
+      "src": "D:/Project/wei-ui/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
       "needsInterop": false
     },
     "vue-router": {
-      "file": "D:/Practice/wei-ui/docs/.vuepress/.cache/vue-router.js",
-      "src": "D:/Practice/wei-ui/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "D:/Project/wei-ui/docs/.vuepress/.cache/vue-router.js",
+      "src": "D:/Project/wei-ui/node_modules/vue-router/dist/vue-router.esm-bundler.js",
       "needsInterop": false
     },
     "@vue/devtools-api": {
-      "file": "D:/Practice/wei-ui/docs/.vuepress/.cache/@vue_devtools-api.js",
-      "src": "D:/Practice/wei-ui/node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "D:/Project/wei-ui/docs/.vuepress/.cache/@vue_devtools-api.js",
+      "src": "D:/Project/wei-ui/node_modules/@vue/devtools-api/lib/esm/index.js",
       "needsInterop": false
     },
     "@vueuse/core": {
-      "file": "D:/Practice/wei-ui/docs/.vuepress/.cache/@vueuse_core.js",
-      "src": "D:/Practice/wei-ui/node_modules/@vueuse/core/index.mjs",
+      "file": "D:/Project/wei-ui/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "D:/Project/wei-ui/node_modules/@vueuse/core/index.mjs",
       "needsInterop": false
     },
     "nprogress": {
-      "file": "D:/Practice/wei-ui/docs/.vuepress/.cache/nprogress.js",
-      "src": "D:/Practice/wei-ui/node_modules/nprogress/nprogress.js",
+      "file": "D:/Project/wei-ui/docs/.vuepress/.cache/nprogress.js",
+      "src": "D:/Project/wei-ui/node_modules/nprogress/nprogress.js",
       "needsInterop": true
     },
     "@vuepress/shared": {
-      "file": "D:/Practice/wei-ui/docs/.vuepress/.cache/@vuepress_shared.js",
-      "src": "D:/Practice/wei-ui/node_modules/@vuepress/shared/lib/esm/index.js",
+      "file": "D:/Project/wei-ui/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "D:/Project/wei-ui/node_modules/@vuepress/shared/lib/esm/index.js",
       "needsInterop": false
     }
   }
