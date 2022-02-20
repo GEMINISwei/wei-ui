@@ -1,0 +1,1 @@
+import{o as e,c as t}from"./app.f4ead750.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const r={name:"InputTextarea"};function o(n,c,p,s,_,f){return e(),t("textarea")}var x=a(r,[["render",o]]);export{x as default};
